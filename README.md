@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! My name is Eli Woodard, and I'm a programmer well-versied in Python, Java, CSS, HTML, Javascript, and Sass. I enjoy working on a variety of projects, from web development to automation scripts. Below, you'll find a list of some of the websites I've built and repositories you can explore.
+Welcome to my GitHub profile! My name is Eli Woodard, and I'm a programmer well-versied in Python, Java, CSS, HTML, Javascript, and SASS. I enjoy working on a variety of projects, from web development to automation scripts. Below, you'll find a list of some of the websites I've built and repositories you can explore.
 
 ## Websites
 
