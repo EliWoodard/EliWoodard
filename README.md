@@ -12,3 +12,6 @@ Welcome to my GitHub profile! My name is Eli Woodard, and I'm a programmer well-
 - [Tuition Calculator](https://github.com/EliWoodard/Tuition-Calculator): A Java program that estimates tuition costs based on input parameters.
 - [PythonProjects](https://github.com/EliWoodard/PythonProjects): A collection of diverse Python projects I've worked on.
 - [DiffChecker](https://github.com/EliWoodard/DiffCheck): Checks for differences between lists.
+
+## Contact
+- elijahwoodard136@gmail.com
