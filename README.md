@@ -6,7 +6,7 @@ Welcome to my GitHub profile! My name is Eli Woodard, and I'm a programmer well-
 - [JourneyToMiddleEarth](https://eliwoodard.github.io/JourneyToMiddleEarth/) ([Repo](https://github.com/EliWoodard/JourneyToMiddleEarth)): A text-based adventure game set in the realm of Middle Earth.
 - [Tasks Website](https://eliwoodard.github.io/Tasks/) ([Repo](https://github.com/EliWoodard/Tasks)): A web application for creating and managing courses and tasks.
 
-## Repositories
+## Code-Based Projects
 
 - [Image Converter](https://github.com/EliWoodard/Image-Converter): Converts images to black and white.
 - [Tuition Calculator](https://github.com/EliWoodard/Tuition-Calculator): A Java program that estimates tuition costs based on input parameters.
