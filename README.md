@@ -10,7 +10,7 @@ Welcome to my GitHub profile! My name is Eli Woodard, and I'm a programmer well-
 
 - [Weather Scraper](https://github.com/EliWoodard/PythonWebScraper): Input a city name and get it's weather data.
 - [Image Converter](https://github.com/EliWoodard/Image-Converter): Converts images to black and white.
-- [Tuition Calculator](https://github.com/EliWoodard/Tuition-Calculator): A Java program that estimates tuition costs based on input parameters.
+- [Tuition Calculator](https://github.com/EliWoodard/Tuition-Calculator): Java program that estimates tuition costs.
 - [DiffChecker](https://github.com/EliWoodard/DiffCheck): Checks for differences between lists.
 
 ## Contact
