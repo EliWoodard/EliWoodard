@@ -15,3 +15,6 @@ Welcome to my GitHub profile! My name is Eli Woodard, and I'm a programmer well-
 
 ## Contact
 - elijahwoodard136@gmail.com
+
+### Views
+[![Views](http://hits.dwyl.com/EliWoodard/EliWoodard.svg)](http://hits.dwyl.com/EliWoodard/EliWoodard)
