@@ -3,7 +3,7 @@ Welcome to my GitHub profile! My name is Eli Woodard, and I'm a programmer well-
 ## Websites
 
 - [Portfolio](https://eliwoodard.github.io/Portfolio/) ([Repo](https://github.com/EliWoodard/Portfolio)):  My personal website showcasing my skills, projects, and achievements.
-- [JourneyToMiddleEarth](https://eliwoodard.github.io/JourneyToMiddleEarth/) ([Repo](https://github.com/EliWoodard/JourneyToMiddleEarth)): A text-based adventure game set in the realm of Middle Earth.
+- [JourneyToMiddleEarth](https://eliwoodard.github.io/JourneyToMiddleEarth/) ([Repo](https://github.com/EliWoodard/JourneyToMiddleEarth)): A digitized adventure game set in the realm of Middle Earth.
 - [Tasks Website](https://eliwoodard.github.io/Tasks/) ([Repo](https://github.com/EliWoodard/Tasks)): A web application for creating and managing courses and tasks.
 
 ## Code-Based Projects
