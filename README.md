@@ -5,7 +5,7 @@ Hello! My name is Eli Woodard, and I'm a programmer proficient in Python, Java, 
 - [Portfolio](https://github.com/EliWoodard/Portfolio) ([Website](https://eliwoodard.github.io/Portfolio/)):  My personal website showcasing my skills, projects, and achievements.
 - [JourneyToMiddleEarth](https://github.com/EliWoodard/JourneyToMiddleEarth) ([Website](https://eliwoodard.github.io/JourneyToMiddleEarth/)): A digitized adventure game set in the realm of Middle Earth.
 - [Tasks Website](https://github.com/EliWoodard/Tasks) ([Website](https://eliwoodard.github.io/Tasks/)): A web application for creating and managing courses and tasks.
-- [Databricks Website](https://github.com/EliWoodard/DatabricksGenAI) ([Website](https://eliwoodard.github.io/DatabricksGenAI/)): A web application presenting my Databricks project.
+- [Databricks Website](https://github.com/EliWoodard/DatabricksGenAI) ([Website](https://eliwoodard.github.io/DatabricksGenAI/)): A web application presenting my Databricks certification project.
 
 ## Fullstack
 
