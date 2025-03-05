@@ -19,7 +19,10 @@ Hello! My name is Eli Woodard, and I'm a programmer proficient in Python, Java, 
 - [DiffChecker](https://github.com/EliWoodard/DiffCheck): Checks for differences between lists.
 
 ## For Practice
-- [Practice](https://github.com/EliWoodard/Practice): Understanding the principles of R, Javascript, Python, Java, C++, and C. 
+- [Practice](https://github.com/EliWoodard/Practice): Understanding the principles of R, Javascript, Python, Java, C++, and C.
+
+## School Repo
+- [School GitHub Repo](https://github.com/Eli-Woodard): Most of these repos are private to ensure assignments are not copyable.
 
 ## Contact
 - elijahwoodard136@gmail.com
