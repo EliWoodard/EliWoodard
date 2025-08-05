@@ -1,4 +1,4 @@
-Hello! My name is Eli Woodard, and I'm a programmer proficient in Python, Java, and frontend development using frameworks like React and Angular. I enjoy exploring diverse projects, including web development, game development, and automation scripts. Below, you’ll find a selection of my work and repositories you can explore.
+Salutations! My name is Elijah Woodard, and I'm a computer scientist. Currently I'm proficient in C#, Java, and frontend web development. I've used blazor, React, and Angular as my main frameworks for web architecture. I enjoy exploring diverse projects, including web development, game development, and automation scripts. Below, you’ll find a selection of my work and repositories you can explore.
 
 ## Websites
 
